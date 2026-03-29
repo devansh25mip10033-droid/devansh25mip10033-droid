@@ -1,16 +1,20 @@
-## Hi there 👋
+# DevanshSinghRawat
+# Hi 👋 I'm Devansh
+🎓 Integrated M.Tech Student  
+📚 Branch: Artificial Intelligence  
+📅 Year: 2025-2030
 
-<!--
-**devansh25mip10033-droid/devansh25mip10033-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 About Me  
+I am a passionate student who is interested in learning technology, coding, and digital skills.  
+I enjoy exploring new tools and improving my problem-solving abilities.
 
-Here are some ideas to get you started:
+🌱 Currently Learning  
+- Programming fundamentals  
+- GitHub and version control  
+- Digital literacy and online safety  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 My Goal  
+I hope to learn how to build real-world projects, improve my coding confidence, and grow as a software developer.
+
+⭐ Fun Fact  
+I believe consistent learning and practice can turn beginners into experts!
