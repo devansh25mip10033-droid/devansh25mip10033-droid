@@ -1,7 +1,7 @@
 # DevanshSinghRawat
 # Hi 👋 I'm Devansh
 🎓 Integrated M.Tech Student  
-📚 Branch: Artificial Intelligence  
+📚 Branch: Datascience
 📅 Year: 2025-2030
 
 💻 About Me  
